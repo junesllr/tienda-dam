@@ -1,0 +1,2 @@
+Archivos de la tienda
+Ejemplos: facturas, oresupuestos, gastos, ganancias
